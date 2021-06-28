@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: ""
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm a Ph.D. candidate in the Department of Applied Physics at Stanford University, working with [Hideo Mabuchi](https://www.mabuchilab.org) to figure out how we can make simple things behave and compute in interesting and useful ways by having many of them interact. Our simple things of choice are usually light pulses in nonlinear crystals, but after some abstraction the equations can describe a variety of dynamical systems with high-dimensional state spaces. Random matrices and dynamical mean fields have a tendency of rearing their distributions in this work. Details forthcoming—watch this space.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Off the clock I try to do my little part to find out what I and my communities can do to stop shoving carbon from the lithosphere into the atmosphere at such a breakneck rate, because right now the future isn't looking so bright: <https://doi.org/10.1093/biosci/biz088>.
